@@ -1,0 +1,20 @@
+file 480 1458533666                                             
+version 2
+run General-0-20160321-09:44:18-3404
+attr configname General
+attr datetime 20160321-09:44:18
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network ForwardingNetwork
+attr processid 3404
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0  ForwardingNetwork.n5.al  ""  ETV
+0	434 46 144 168 102.006 104.018 2 102.006 104.018 206.024 21224.96836
