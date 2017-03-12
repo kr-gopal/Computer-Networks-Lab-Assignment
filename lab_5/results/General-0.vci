@@ -1,0 +1,20 @@
+file 786 1457136078                                             
+version 2
+run General-0-20160305-05:29:07-32510
+attr configname General
+attr datetime 20160305-05:29:07
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network lab5.LayeredNetwork
+attr processid 32510
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0  LayeredNetwork.n1.DLL  ""  ETV
+0	418 368 112 355 0.901 3.301 23 0.2 0.2 4.6 0.92
